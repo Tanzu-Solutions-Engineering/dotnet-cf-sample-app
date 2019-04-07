@@ -1,0 +1,7 @@
+---
+applications:
+- name: workshop-dotnet
+  random-route: true
+  memory: 512m
+  stack: windows2016
+  instances: 1
